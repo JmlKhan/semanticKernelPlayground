@@ -5,6 +5,10 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "semanticKernelInConsoleApp", "semanticKernelInConsoleApp.csproj", "{F662361E-E91F-436F-AC0F-A0AF4EE9A6B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PromptFunctions", "..\PromptFunctions\PromptFunctions.csproj", "{7CA87B6E-F749-4B45-8F31-14EC13B52761}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NativeFunctions", "..\NativeFunctions\NativeFunctions.csproj", "{76B5E085-B837-4593-AC37-3BD287C74D1B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{F662361E-E91F-436F-AC0F-A0AF4EE9A6B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F662361E-E91F-436F-AC0F-A0AF4EE9A6B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F662361E-E91F-436F-AC0F-A0AF4EE9A6B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CA87B6E-F749-4B45-8F31-14EC13B52761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CA87B6E-F749-4B45-8F31-14EC13B52761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CA87B6E-F749-4B45-8F31-14EC13B52761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CA87B6E-F749-4B45-8F31-14EC13B52761}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76B5E085-B837-4593-AC37-3BD287C74D1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76B5E085-B837-4593-AC37-3BD287C74D1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76B5E085-B837-4593-AC37-3BD287C74D1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76B5E085-B837-4593-AC37-3BD287C74D1B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
