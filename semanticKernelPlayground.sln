@@ -13,6 +13,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainingFunctions", "..\Cha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionCalling", "..\FunctionCalling\FunctionCalling.csproj", "{9E6C1624-A75B-440F-A105-F51DFBF6E621}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandlebarsPlanner", "..\HandlebarsPlanner\HandlebarsPlanner.csproj", "{7E21681A-7E9B-4D35-B119-13DCA6703C94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeParrotAgent", "..\CodeParrotAgent\CodeParrotAgent.csproj", "{A50BF8F6-6644-4409-8BA2-EEA69ED86E26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsAgent", "..\NewsAgent\NewsAgent.csproj", "{69C31191-2803-4397-9923-1B5A6661231A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +45,18 @@ Global
 		{9E6C1624-A75B-440F-A105-F51DFBF6E621}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E6C1624-A75B-440F-A105-F51DFBF6E621}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E6C1624-A75B-440F-A105-F51DFBF6E621}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E21681A-7E9B-4D35-B119-13DCA6703C94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E21681A-7E9B-4D35-B119-13DCA6703C94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E21681A-7E9B-4D35-B119-13DCA6703C94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E21681A-7E9B-4D35-B119-13DCA6703C94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A50BF8F6-6644-4409-8BA2-EEA69ED86E26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A50BF8F6-6644-4409-8BA2-EEA69ED86E26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A50BF8F6-6644-4409-8BA2-EEA69ED86E26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A50BF8F6-6644-4409-8BA2-EEA69ED86E26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69C31191-2803-4397-9923-1B5A6661231A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69C31191-2803-4397-9923-1B5A6661231A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69C31191-2803-4397-9923-1B5A6661231A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69C31191-2803-4397-9923-1B5A6661231A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
